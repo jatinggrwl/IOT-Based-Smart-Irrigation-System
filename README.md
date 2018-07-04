@@ -1,0 +1,2 @@
+# IOT-Based-Smart-Irrigation-System
+A smart irrigation system is buit to monitor the field environment and to control the water pump remotely from anywhere in the world.This project built using Arduino uno, ESP8266,Flame sensor Rain sensor,DHT22 temp and humidity sensor and Soil moisture sensor.It uses a relay module to ON/OFF the pump .This project is designed with Thinkspeak cloud and uses Twilio Api to send text messages when there is rain in the farm.Android App is built using Android Studio. 
